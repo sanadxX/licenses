@@ -1,6 +1,14 @@
 {
- "car_v2": {
+  "hudn": {
+    "status": true,
+    "message": "This version is outdated."
+  },
+  "hudf": {
     "status": false,
+    "message": "This version is outdated."
+  },
+  "admin": {
+    "status": true,
     "message": "This version is outdated."
   }
 }
