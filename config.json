@@ -1,6 +1,6 @@
 {
   "hud_v1": {
-    "status": true,
+    "status": false,
     "message": "This version is outdated."
   }
 }
