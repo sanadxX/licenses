@@ -2,5 +2,9 @@
   "hud_v1": {
     "status": false,
     "message": "This version is outdated."
+  },
+ "car_v1": {
+    "status": false,
+    "message": "This version is outdated."
   }
 }
