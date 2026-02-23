@@ -1,6 +1,6 @@
 {
-  "hudn": {
-    "status": false,
+  "hud": {
+    "status": true,
     "message": "This version is outdated."
   },
   "admin": {
